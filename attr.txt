@@ -1,0 +1,7 @@
+List of references (still working on it):
+
+http://www.webdesignerdepot.com/2012/08/create-a-stunning-menu-in-css3/
+http://tympanus.net/Tutorials/SwatchBook/
+http://tutorialzine.com/2012/05/growing-thumbnails-portfolio-jquery-css3/
+http://code.tutsplus.com/tutorials/create-a-sticky-note-effect-in-5-easy-steps-with-css3-and-html5--net-13934
+http://tympanus.net/codrops/2012/03/23/responsive-content-navigator-with-css3/
